@@ -40,5 +40,4 @@ public class EmpDailyWage{
 		EmpDailyWage edw=new EmpDailyWage();
 		edw.calculator("DMart",20,5,35);
 		edw.calculator("Reliance",30,8,55);
-	}
 }
